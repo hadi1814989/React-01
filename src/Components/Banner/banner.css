@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+#banner{
+   background-color: #EEEDDE;
+   width: 1366px;
+   height: 830px;
+   margin: 0 auto;
+   padding-left: 100px;
+}
+.main-banner-div{
+    display: flex;
+    padding-top: 257px;
+  
+}
+
+.banner-text h2{
+    font-family: poppins;
+    font-size: 60px;
+    font-weight: 600;
+    padding-bottom: 24px;
+    
+}
+.banner-text p{
+    font-family: poppins;
+    font-size: 16px;
+    max-width: 544px;
+    font-weight: 300;
+    padding-bottom: 55px;
+}
+.banner-img img{
+    margin-left: 2rem;
+} 
+.banner-input{
+    padding: 23px 101px 23px 56px;
+    margin-right: 2rem;
+    font-size: 16px;
+    font-family: poppins;
+    font-weight: light;
+    width: 353px; 
+    outline: none;
+    border: none;
+    background-color: #ffff;
+    border-radius: 8px;
+    
+}
+.banner-text button{
+    padding: 23px 37px 23px 37px;
+    background-color: #ffff;
+    border-radius: 8px;
+    font-size: 16px;
+    font-family: poppins;
+    font-weight: light;
+    border: none;
+}
+

@@ -1,0 +1,66 @@
+#kami{
+    background-color: #EEEDDE;
+    width: 1366px;
+    height: 390px;
+    margin: 0 auto;
+    padding-left: 100px;
+}
+.kami-main-div{
+    display: flex;
+}
+.kami-left-div h2{
+    padding-top: 48px;
+    padding-bottom: 74px;
+    font-size:36px ;
+    font-family:poppins ;
+    font-weight:600;
+}
+.contact-div-main{
+    display: flex;
+}
+.contact-div{
+   border: 1px solid #fff;
+   background-color: #fff;
+   border-radius: 10px;
+   margin-right: 3rem;
+   margin-bottom: 48px;
+}
+.contact-div h5{
+    padding-left:104px ;
+    padding-top: 25px;
+    padding-bottom: 8px;
+    font-size:16px ;
+    font-weight: 600;
+}
+.contact-div h6{
+    padding-left:104px ;
+    padding-bottom: 27px;
+    padding-right: 41px;
+    font-size:16px ;
+    font-weight:400;
+}
+.contact-div button{
+    padding: 10px 18px;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-left: 83px;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: transparent;
+    margin-bottom: 15px;
+    transition: 0.5s;
+}
+.contact-div button:hover{
+    background-color: black;
+    color: #fff;
+}
+.kami-right-div h2{
+    padding-top: 88px;
+    padding-bottom: 79px;
+    padding-left: 190%;
+    font-size:36px ;
+    font-weight: 600;
+}
+.kami-right-div img{
+    padding-left: 200%;
+}

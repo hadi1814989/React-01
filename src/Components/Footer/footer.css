@@ -1,0 +1,17 @@
+#footer{
+    background-color: #203239;
+    width: 1366px;
+    height: 104px;
+    margin: 0 auto;
+    padding-left: 100px;
+}
+.footer-main-div{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-img-div img{
+    padding-top: 31px;
+}
+.footer-icon-div img{
+    padding-top: 31px; 
+}

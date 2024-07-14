@@ -1,0 +1,30 @@
+#header{
+    background: #EEEDDE;
+    position: fixed;
+    left: 0%;
+    top: 0%;
+    width: 100%;
+}
+.container{
+    width: 1320px;
+    margin: 0 auto; 
+
+}
+.logo{
+    padding-left: 2rem;
+    font-size: 45px;
+    font-weight: bolder;
+}
+.main-header-div{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.menu ul li {
+    display: inline-block;
+    padding-right: 6rem;
+    line-height: 50px;   
+}
+.menu a{
+    color: black;
+}

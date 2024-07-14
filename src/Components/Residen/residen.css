@@ -1,0 +1,30 @@
+.residen-frist-div h4{
+    padding-top: 68px;
+    padding-bottom: 8px;
+    color: orange;
+ }
+ .residen-frist-div h2{
+   font-size:36px ;
+   font-family:poppins ;
+   font-weight: 600;
+   padding-bottom: 64px;
+ }
+ .residen-main-div{
+    display: flex;
+ }
+ .residen-card{
+    margin-right: 3rem;
+ }
+ .residen-card p{
+   font-size:16px ;
+   font-family:poppins ;
+   font-weight: light;
+   width: 356px;
+   padding-bottom: 68px;
+ }
+ .residen-card h2{
+   font-size:24px ;
+   font-family:poppins ;
+   font-weight: light;
+   width: 356px;
+ }

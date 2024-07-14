@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+
+#tahapan{
+    margin: 100px 0px;
+}
+.tahapan-h2 h2{
+    font-size: 36px;
+    font-weight: poppins;
+    font-weight: 600px;
+    width: 533px;
+    margin-bottom: 64px;
+}
+.tahapan-card{
+    display: flex;
+}
+.card{
+    position: relative;
+    border: 1px solid #EEEDDE;
+    border-radius: 10px;
+    margin-right: 135px;
+}
+.card h3{
+    padding: 20px 0px 8px 33px;
+    font-size: 19px;
+    
+}
+.card h3::after {
+    position: absolute;
+    top: 7%;
+    left: 0%;
+    content: '';
+    background-color: orange;
+    width: 3px;
+    height: 27px;
+    transition: 0.5s;
+}
+.card h3:hover::after{
+    width: 150px;
+    z-index: -1;
+}
+.card p{
+    padding-bottom: 48px;
+    width: 235px;
+    padding-left: 33px;
+    padding-right: 32px;
+    font-weight: light;
+    font-size: 19px;
+}
+.card h4{
+    padding-left: 33px;  
+    padding-left: 33px;
+    font-weight:400;
+    padding-bottom: 20px;
+    font-size: 19px;
+}
+.card span{
+    position: absolute;
+    top: 8%;
+    right: 12%;
+    color: orange;
+    font-size: 19px;
+}
